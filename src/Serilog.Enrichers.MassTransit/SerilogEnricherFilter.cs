@@ -1,6 +1,5 @@
-﻿using System.Threading.Tasks;
-
-using GreenPipes;
+﻿using MassTransit;
+using System.Threading.Tasks;
 
 namespace Serilog.Enrichers.MassTransit
 {

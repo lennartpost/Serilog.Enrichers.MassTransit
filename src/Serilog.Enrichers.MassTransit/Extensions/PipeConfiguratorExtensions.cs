@@ -1,8 +1,5 @@
-﻿using System;
-
-using GreenPipes;
-
-using Serilog.Enrichers.MassTransit;
+﻿using Serilog.Enrichers.MassTransit;
+using System;
 
 namespace MassTransit
 {

@@ -1,13 +1,11 @@
-﻿using GreenPipes;
-
-using MassTransit;
+﻿using MassTransit;
 
 namespace Serilog.Enrichers.MassTransit
 {
 
     /// <summary>
     /// Provides enrichment data.
-    /// </summary>
+    /// </summary> 
     static class SerilogEnricherData
     {
 
